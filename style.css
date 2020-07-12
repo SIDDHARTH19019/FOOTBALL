@@ -1,0 +1,12 @@
+/* Code here*/
+
+.dc {
+  display: flex;
+  /*Step 1: Try changing the "flex-direction" to change DC superheroes' alignment. Here are the available options: "row"/"row-reverse"/"column"/"column-reverse" */
+  flex-direction: row;
+}
+.marvel {
+  display: flex;
+  /*Step 2: Try changing the "flex-direction" to change Marvel superheroes' alignment. Here are the available options: "row"/"row-reverse"/"column"/"column-reverse" */
+  flex-direction: row;
+}
